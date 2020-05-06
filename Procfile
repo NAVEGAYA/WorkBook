@@ -1,0 +1,1 @@
+java $JAVA_OPTS -jar target/Work-Book-Backend-0.0.1-SNAPSHOT.war --server.port=$PORT $JAR_OPTS
